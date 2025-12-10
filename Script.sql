@@ -1,7 +1,7 @@
 /*
 =============================================================================
 PROYECTO FINAL: SISTEMA DE GESTIÓN DE BIBLIOTECA UNIVERSITARIA DISTRIBUIDA
-ASIGNATURA: BASE DE DATOS AVANZADA
+ASIGNATURA: BASE DE DATOS II
 FECHA: DICIEMBRE 2025
 =============================================================================
 DESCRIPCIÓN:
