@@ -18,7 +18,6 @@ rendimiento. Incluye:
 -- ==========================================================================
 -- 1. CONFIGURACIÓN DEL ENTORNO Y LIMPIEZA
 -- ==========================================================================
-DROP SCHEMA IF EXISTS biblioteca_universitaria CASCADE;
 CREATE SCHEMA biblioteca_universitaria;
 SET search_path TO biblioteca_universitaria;
 
